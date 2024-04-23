@@ -1,0 +1,74 @@
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+a href{
+ justify-content:space-around;
+align-items:center;
+ 
+}
+
+
+h1 {
+  text-align: center;
+  text-transform: Uppercase;
+  color: ;
+}
+
+p {
+  text-indent: 50px;
+  text-align: center;
+  letter-spacing: 4px;
+}
+p2 {
+  text-indent: 50px;
+  text-align: right;
+  letter-spacing: 4px;
+  color: #ffff00;
+}
+p3{
+  text align:right;
+}
+img{
+  
+  width: 500px;
+  height: 300px;
+  text-aling:center;
+}
+  
+
+
+ul {
+  text-indent: 50px;
+  text-align:center ;
+  letter-spacing: 1px;
+  color: Blue;
+}
+
+iframe {
+  position: ;
+  text-align:center ;
+  top: ;
+  left: 4000px;
+  bottom: 600px;
+  right: 0px;
+  width: 500px;
+  height: 500px;
+  border: none;
+}
+
+valorant {
+ right:500px;
+ Left:600px;
+ Test-align:center;
+}
+P2 {
+color: blue;
+}
+a {
+  text-color:blue;
+}
+</div>
+
+
+	
